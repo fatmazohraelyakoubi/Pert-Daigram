@@ -6,12 +6,12 @@ pert-daigram-ljba-2xuthqs5f-fatmazahra-elyakoubis-projects.vercel.app
 
 ## Pert Page
 
-![Pert Page](screenshots/pert.png)
+![Pert Page](src/screenshots/pert.png)
 
 ## Gant Page
 
-![Gant Page](screenshots/gant.png)
+![Gant Page](src/screenshots/gant.png)
 
-## Create Task Page
+## Table Task Page
 
-![Table Task](screenshots/task_table.png)
+![Table Task](src/screenshots/task_table.png)
